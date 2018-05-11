@@ -18,5 +18,8 @@ class Girl{
 	public int sub ( int a , int b ){
 		return a - b ;
 	}
-
+	public void sayHello (){
+	
+		system.out.println("hello ,man ")
+	}
 }
